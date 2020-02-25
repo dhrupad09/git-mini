@@ -56,5 +56,5 @@
 
 [Gitflow](https://guides.github.com/introduction/flow/)
 
-[Githelp]((https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+[Githelp](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
